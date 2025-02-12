@@ -1,0 +1,2 @@
+IPv4 IPSEC tunnel is used for symmetry encryption and decryption.
+It's very import to used hardware offload for encryption and decryption.
